@@ -28,8 +28,8 @@ MISHI = [
 ROY = [
     [
         InlineKeyboardButton(
-            text="ᗰЄ🥂💘",
-            url=f"https://t.me/About_EvoXpro_Owner"),
+            text="𝐑ᴇᴅᴢᴏɴᴇ 𝐍ᴇᴛᴡᴏʀᴋ's",
+            url=f"https://t.me/Redzone_Networks"),
         InlineKeyboardButton(text="αηу qυєѕтιση мєѕѕ нєяє", url=f"https://t.me/+Js4pbHpeiWBhZjI9")
     ],
 ]
